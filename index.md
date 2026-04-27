@@ -14,11 +14,11 @@ In this project, I analyzed whether students who frequently create their own exa
 
 
 ## Visualizations
-<img src="<comp110ex09>/static/imgs/scatter_plot.png" alt="Image of Scatter Plot. "  width="500"/>
+<img src="comp110ex09/static/imgs/scatter_plot.png" alt="Image of Scatter Plot. "  width="500"/>
 
-<img src="<comp110ex09>/static/imgs/box_plot.png" alt="Image of Box Plot. "  width="500"/>
+<img src="comp110ex09/static/imgs/box_plot.png" alt="Image of Box Plot. "  width="500"/>
 
-<img src="<comp110ex09>/static/imgs/line_chart.png" alt="Image of Line Chart. "  width="500"/>
+<img src="comp110ex09/static/imgs/line_chart.png" alt="Image of Line Chart. "  width="500"/>
 
 
 ## Final Conclusions
